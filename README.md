@@ -16,5 +16,3 @@ Shift  : E (asli F)
 ![Halaman Logout] ![img_5.png](img_5.png)
  
 # Tugas4
-# Tugas4
-# Tugas4
